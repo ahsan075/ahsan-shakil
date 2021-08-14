@@ -443,6 +443,10 @@ html {
         width: 30rem !important;
     }
 
+    .logo {
+        margin-left: 0;
+    }
+
     .line {
         display: none;
     }
